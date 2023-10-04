@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img alt="Imagem da Aplicação" src="filter.png" />
+  <img alt="Imagem da Aplicação" src="filter.jpg" />
 </p>
 
 ---
