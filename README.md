@@ -1,5 +1,3 @@
-# Filtro-De-Cidade-Estado-JS
-Uma barra de busca de países, feita com javaScript puro.
 <h1 align="center">
  Uma barra de busca de países, feita com javaScript puro.
 </h1>
@@ -37,7 +35,7 @@ Uma barra de busca de países, feita com javaScript puro.
 
 ## :rocket: Sobre o Repositório
 
-Este é um repositório contendo um painel flexivel, que muda de acordo com  click, feito usando javaScript puro.
+Este é um repositório contendo uma barra de busca de países, feita com javaScript puro.
 
 ---
 
@@ -58,7 +56,7 @@ Este é um repositório contendo um painel flexivel, que muda de acordo com  cli
 Para copiar o projeto, utilize os comandos:
 
 ```bash
-  ❯ git clone https://github.com/Talison-Miguel/Paineis-Flexiveis.git
+  ❯ git clone https://github.com/Talison-Miguel/Barra-De-Busca-De-Paises-JS.git
 ```
 
 ---
