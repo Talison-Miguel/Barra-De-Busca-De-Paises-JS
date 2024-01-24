@@ -56,7 +56,7 @@ Este é um repositório contendo uma barra de busca de países, feita com javaSc
 Para copiar o projeto, utilize os comandos:
 
 ```bash
-  ❯ git clone https://github.com/Talison-Miguel/Barra-De-Busca-De-Paises-JS.git
+  ❯ git clone https://github.com/Talison-Miguel/Barra-De-Busca-JS.git
 ```
 
 ---
