@@ -1,5 +1,5 @@
 <h1 align="center">
- Uma barra de busca de países, feita com javaScript puro.
+ Uma barra de busca, feita com javaScript puro.
 </h1>
 
 <p align="center">
